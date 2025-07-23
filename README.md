@@ -1,16 +1,16 @@
 # URL Shortener Application - Screenshots
 
-## 📸 Application Screenshots
+##  Application Screenshots
 
 ### Main Interface - URL Shortener Homepage
-![URL Shortener Main Interface](https://github.com/4vv22is036/4vv22is036/blob/main/screenshots/main-interface.png?raw=true)
+![URL Shortener Main Interface](/Users/harshita/4vv22is036/screenshots/img1.png)
 
 ### URL Shortening Process
-![URL Shortening Demo](https://github.com/4vv22is036/4vv22is036/blob/main/screenshots/img1.png?raw=true)
+![URL Shortening Demo](/Users/harshita/4vv22is036/screenshots/img2.png)
 
 ### Shortened URL Result
-![Shortened URL Result](https://github.com/4vv22is036/4vv22is036/blob/main/screenshots/img3.png?raw=true)
+![Shortened URL Result](/Users/harshita/4vv22is036/screenshots/img3.png)
 
 ### Statistics Dashboard
-![Statistics Dashboard](https://github.com/4vv22is036/4vv22is036/blob/main/screenshots/img2?raw=true)
+![Statistics Dashboard](/Users/harshita/4vv22is036/screenshots/img2.png)
 
