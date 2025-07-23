@@ -1,0 +1,25 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "main": "dist/logger.js",
+  "types": "dist/logger.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node logger.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["logging", "middleware", "typescript"],
+  "author": "harshitha",
+  "license": "ISC",
+  "description": "Logging middleware with API integration",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/axios": "^0.9.36",
+    "axios": "^1.10.0"
+  }
+}
